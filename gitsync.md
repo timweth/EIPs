@@ -1,1 +1,1 @@
-This is a test for the GitSync script.
+Verifying crontab is working.
